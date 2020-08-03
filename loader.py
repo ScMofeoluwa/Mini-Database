@@ -1,9 +1,3 @@
-"""
-loader.py
---------
-Implements the model for our website by simulating a database.
-"""
-
 import json
 
 def load_db():
