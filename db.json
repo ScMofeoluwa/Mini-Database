@@ -1,0 +1,14 @@
+{
+    "Database":
+    {
+        "DSN/0001":
+        {
+            "name":"Mofe",
+            "proficiency":"Inter",
+            "age":17,
+            "department":"EEE",
+            "zindi":"Yes",
+            "kaggle":"Yes"
+        }
+    }
+}
